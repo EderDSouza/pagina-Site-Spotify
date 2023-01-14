@@ -1,6 +1,6 @@
 /*
 * 
-* @author Jamilton Damasceno
+* @author Éder Souza
 */
 
 
@@ -80,12 +80,26 @@ h1{
     color: white;
 }
 
+#servicos{
+    background: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.fotos{
+    padding: 10px 0;
+}
+
 
 
 
 
 /*Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) { 
+
+    .btn-custom{
+      margin: 30px 35px;
+    }
 
  }
 
